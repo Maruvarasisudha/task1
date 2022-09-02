@@ -1,0 +1,473 @@
+ *{
+    margin:0% ;
+    padding:0% ;
+    
+   
+}
+   .text 
+   {
+        color:rgb(10, 12, 12);
+        text-align: left;
+        font-family: Verdana;
+        text-indent: 1cm;
+        font-size: medium;
+        padding: 20px 0px 2px 5px;
+        
+    }
+
+nav
+{
+    
+      width:100% ;
+      height: 30px;
+      background-color:white;
+      margin:0% ;  
+}  
+nav ul li
+{
+
+   text-decoration:none ;
+   font-family:sans-serif ;
+   list-style:none ;
+   text-align: center;
+   margin: 0px;
+   padding:0px 0px 120px 0px ;
+   margin-left: px; ;
+
+}
+li 
+{   padding: 0px 60px;
+   line-height :10%; 
+   float:left ;     
+}
+.cart{
+   float: right;
+   margin:-15px 30px 10px 10px;
+   text-align: center;
+   padding-bottom:-10px ;
+   
+   
+
+}
+   .button {
+      
+   
+      color:black;
+      height: 30px;
+      width: 90px;
+      text-align: center;
+      text-decoration: none;
+      float: right;
+      font-size: 16px;
+      border-color: 2px black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      cursor: pointer;
+    }
+
+.button1{
+   font-family: sans-serif;
+   height: 30px;
+      width: 90px;
+      font-size:small;
+      color: black;
+      cursor: pointer;
+      
+
+}
+.shop{
+
+width:100% ;
+height:200px ;
+background-color: rgb(24, 21, 21);
+
+}
+.tool{
+   
+   margin-top:-150px ;
+   margin-left: 500px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: aliceblue;
+}
+
+.para1{
+   color:rgb(178, 182, 185);
+   margin-top:5px ;
+
+}
+.para2{
+   margin-left:520px; 
+}
+.row1{
+   margin-top:100px;
+   clear: both;
+   display: table;
+   display: flex;
+   columns:4 ;
+   margin: 20px; 
+   margin-left:20px ;
+}
+.col1{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box1{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:141px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left: 39px;
+}
+.boxa{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :283px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+margin-left: 39px;
+}
+
+
+.row{
+      margin-top:100px;
+      clear: both;
+      display: table;
+      display: flex;
+      columns:4 ;
+      margin: 20px; 
+      margin-left:20px ;
+   }
+   .col2{
+      float:left;
+      
+      text-align: center;
+      margin-right: 20px;
+   }
+   .box2{
+      border: 1px rgb(223, 220, 220) groove;
+      width:250px ;
+      height:90px ;
+      background-color: rgb(238, 232, 232);
+      text-align: center;
+      margin-top:-331px ;
+      font-family: sans-serif;
+      padding: 60px 0px 0px 0px;
+      font-size:25px ;
+      color: rgb(115, 117, 119);
+      float:left;
+      margin-left:364px ;
+      
+      
+   
+   }
+   .boxb{
+      border: 1px rgb(223, 220, 220) groove;
+      width:250px;
+      height:150px ;
+      background-color:white;
+      margin-top :-189px;
+      margin-bottom:-5px;
+      padding: 20px 0px 0px 0px;
+      text-align: center;
+      font-family:Verdana, Geneva, Tahoma, sans-serif ;
+      margin-left: 364px;
+   }
+      .button2 {
+         font-family: sans-serif;
+         height: 30px;
+            width: 90px;
+            font-size:small;
+            color: black;
+            cursor: pointer;
+         margin-top:-20px ;
+         padding-top: -50px;
+         
+         }   
+         .button0 {
+            font-family: sans-serif;
+            height: 20px;
+               width: 40px;
+               font-size:small;
+               color: rgb(250, 245, 245);
+               cursor: pointer;
+            margin-top:-51px ;
+            float: right;
+            text-align: center;
+            border-radius: 2px;
+            background-color:black ;
+            margin-right:7px ;
+            
+            
+            }   
+      
+   
+   
+   
+
+.row{
+   margin-top:100px;
+   clear: both;
+   display: table;
+   display: flex;
+   columns:4 ;
+   margin: 20px; 
+   margin-left:20px ;
+}
+
+.col3{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box3{
+    border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-351px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left:689px ;
+}
+   
+   
+
+
+.boxc{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :-209px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   margin-left:689px;
+   
+}
+.col4{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box4{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-370px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left:1016px ;
+   
+   
+
+}
+.boxd{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :-228px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   margin-left:1016px;
+   
+}
+.row{
+   margin-top:100px;
+   clear: both;
+   display: table;
+   display: flex;
+   columns:4 ;
+   margin: 20px; 
+   margin-left:20px ;
+}
+
+.col5{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box5{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-6px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left:39px ;
+   
+   
+
+}
+.boxe{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :136px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   margin-left:39px;
+   
+}
+.col6{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box6{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-23px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left: 34px;
+}
+.boxf{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :119px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+margin-left: 34px;
+margin-right: 191px;
+}
+.col7{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box7{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-23px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left:-176px ;
+   
+   
+
+}
+.boxg{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :119px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   margin-left: -176px;
+}
+.col8{
+   float:left;
+   
+   text-align: center;
+   margin-right: 20px;
+}
+.box8{
+   border: 1px rgb(223, 220, 220) groove;
+   width:250px ;
+   height:90px ;
+   background-color: rgb(238, 232, 232);
+   text-align: center;
+   margin-top:-43px ;
+   font-family: sans-serif;
+   padding: 60px 0px 0px 0px;
+   font-size:25px ;
+   color: rgb(115, 117, 119);
+   float:left;
+   margin-left:35px ;
+   
+   
+
+}
+.boxh{
+   border: 1px gainsboro groove;
+   width:250px;
+   height:150px ;
+   background-color:white;
+   margin-top :97px;
+   margin-bottom:-5px;
+   padding: 20px 0px 0px 0px;
+   text-align: center;
+   font-family:Verdana, Geneva, Tahoma, sans-serif ;
+   margin-left:35px;
+   
+}
+footer{
+    
+   width:100% ;
+   height: 50px;
+   background-color:rgba(17, 19, 18, 0.897);
+       
+}
+.copy{
+   
+   background-color: rgb(20, 16, 16);
+   color: aliceblue;
+   text-align: center;
+   padding: 33px;
+   font-size: small;
+   margin-left: -30px ;
+   margin-top:50px;} 
+  
+
+
+
+
+
